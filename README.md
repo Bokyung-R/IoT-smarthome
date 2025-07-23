@@ -106,7 +106,7 @@ https://github.com/user-attachments/assets/bb14b3e7-f52d-4d4c-8ad1-01aaca9c38bc
 ### 스마트홈 연동 모니터링앱(계속)
 
 #### 스마트홈 기기 실제 IoT센서데이터 모니터링앱
-- 9일차 작성한 MQTT Subscribe 앱
+- 2일차 작성한 MQTT Subscribe 앱
 - SmartHome MQTT Json Key값
     - L : Light 전등
     - R : Rain (Water Drop Sensor)
